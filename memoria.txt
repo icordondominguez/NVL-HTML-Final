@@ -1,0 +1,8 @@
+He organizado la estructura del proyecto a traves de divs.
+El primer div es el contenido donde creo un div con el titulo y la imagen.
+Dentro del contenido, debajo del div titulo creo 2 divs: quienesSomos y nuestrosServicios
+
+- Quienes somos: Aqui creo una lista donde hago una breve descripcion del negocio y añado un enlace a maps donde se ve nuestra localizacion, tambien creo un div equipo donde inserto una tabla con una imagen y descripcion de cada miembro de equipo.
+- Nuestros servicios: Aquí creo una tabla con los distintos precios disponibles, aparte de un div donde creo 2 formularios, uno para el contrato del servicio y otro para contactar para cualquier duda.
+
+Como la página acaba siendo bastante larga y da para hacer scroll, he añadido un ancla para volver al principio de la pagina facilmente.
